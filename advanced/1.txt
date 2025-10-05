@@ -1,0 +1,16 @@
+Objective: Retrieve the legendary treasure hidden deep within the Whispering
+Caverns. Beware — not all who seek it return.
+
+1. The Fork in the Forest
+
+You stand at a fork in the trail deep within the ancient Bramblewood Forest.
+The left path winds into a misty thicket, where silver fog weaves through
+trees like ghosts. The right path leads toward a craggy hill with a dark cave
+mouth yawning like an open jaw.
+
+A crow caws above you, startling you. You mutter to yourself, "Left or right...
+What did the old map say again?" The wind offers no answer. Somewhere out
+there lies the treasure of the Whispering Caverns — and the first step is yours.
+
+a) Go left into the misty woods -> 2
+b) Go right toward the cave -> 3

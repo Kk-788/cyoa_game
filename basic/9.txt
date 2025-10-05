@@ -1,0 +1,14 @@
+9. Sun Tunnel
+
+You step into a bright chamber. Golden beams shine from cracks in the ceiling. 
+A pedestal stands in the center, holding an ornate chest. But blocking your 
+way is a stone slab etched with a riddle:
+
+"I have cities but no houses, rivers but no water, and forests but no trees. 
+What am I?"
+
+You frown. “A riddle. Classic.” The chamber begins to shake, dust falling from 
+the ceiling. You don’t have much time.
+
+a) Answer: “A map”
+b) Guess randomly: “A ghost?”
