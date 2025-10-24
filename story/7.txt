@@ -1,13 +1,13 @@
 7. Spirit’s Blessing
 
 The spirit leads you effortlessly through the woods, where the mist parts 
-at her presence. “Most never find the true path,” she says. “But you are 
-different.” Before long, you find yourself standing before the hidden 
+at her presence. "Most never find the true path," she says. "But you are
+different." Before long, you find yourself standing before the hidden
 entrance of the cavern — not the cave you saw before, but one buried beneath 
 ivy and stone.
 
-“Follow the markings,” she whispers. “But beware the serpent — it always 
-lies.” She fades into the air like morning dew, leaving behind only a strange warmth in your chest.
+"Follow the markings," she whispers. "But beware the serpent — it always
+lies." She fades into the air like morning dew, leaving behind only a strange warmth in your chest.
 
 a) Enter the cavern with the spirit’s guidance in mind -> 6
 b) Thank the spirit and go alone through the original entrance -> 3

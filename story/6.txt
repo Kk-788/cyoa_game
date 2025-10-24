@@ -5,8 +5,8 @@ faintly on the stone walls—sunbursts, coiled snakes, and spiraling stars.
 Soon, you reach a chamber with two passages. One is marked with a golden 
 sun, the other with a green serpent coiled around a skull.
 
-You speak aloud to steady your nerves. “Sun or serpent… One leads to 
-treasure, the other to doom.” The air in the sun tunnel is dry and warm; 
+You speak aloud to steady your nerves. "Sun or serpent… One leads to
+treasure, the other to doom." The air in the sun tunnel is dry and warm;
 the serpent tunnel exhales a foul-smelling draft. You grip the lantern tighter.
 
 a) Enter the sun-marked tunnel -> 9
